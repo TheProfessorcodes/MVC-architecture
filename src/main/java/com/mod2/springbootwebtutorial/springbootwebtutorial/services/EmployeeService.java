@@ -1,9 +1,9 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.services;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.services;
 
-import com.codingshuttle.springbootwebtutorial.springbootwebtutorial.dto.EmployeeDTO;
-import com.codingshuttle.springbootwebtutorial.springbootwebtutorial.entities.EmployeeEntity;
-import com.codingshuttle.springbootwebtutorial.springbootwebtutorial.exceptions.ResourceNotFoundException;
-import com.codingshuttle.springbootwebtutorial.springbootwebtutorial.repositories.EmployeeRepository;
+import com.mod2.springbootwebtutorial.springbootwebtutorial.dto.EmployeeDTO;
+import com.mod2.springbootwebtutorial.springbootwebtutorial.entities.EmployeeEntity;
+import com.mod2.springbootwebtutorial.springbootwebtutorial.exceptions.ResourceNotFoundException;
+import com.mod2.springbootwebtutorial.springbootwebtutorial.repositories.EmployeeRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.data.util.ReflectionUtils;
 import org.springframework.stereotype.Service;

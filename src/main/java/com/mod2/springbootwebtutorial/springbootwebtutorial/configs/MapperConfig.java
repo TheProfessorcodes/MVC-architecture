@@ -1,4 +1,4 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.configs;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.configs;
 
 
 import org.modelmapper.ModelMapper;

@@ -1,4 +1,4 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.advices;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.advices;
 
 import lombok.Builder;
 import lombok.Data;

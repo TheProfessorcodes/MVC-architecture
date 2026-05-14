@@ -1,4 +1,4 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.annotations;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.annotations;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

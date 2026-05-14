@@ -1,6 +1,6 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.advices;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.advices;
 
-import com.codingshuttle.springbootwebtutorial.springbootwebtutorial.exceptions.ResourceNotFoundException;
+import com.mod2.springbootwebtutorial.springbootwebtutorial.exceptions.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;

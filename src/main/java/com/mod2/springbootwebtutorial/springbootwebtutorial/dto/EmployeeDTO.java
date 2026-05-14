@@ -1,6 +1,6 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.dto;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.dto;
 
-import com.codingshuttle.springbootwebtutorial.springbootwebtutorial.annotations.EmployeeRoleValidation;
+import com.mod2.springbootwebtutorial.springbootwebtutorial.annotations.EmployeeRoleValidation;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;

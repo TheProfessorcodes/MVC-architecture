@@ -1,4 +1,4 @@
-package com.codingshuttle.springbootwebtutorial.springbootwebtutorial.advices;
+package com.mod2.springbootwebtutorial.springbootwebtutorial.advices;
 
 import org.springframework.core.MethodParameter;
 import org.springframework.http.MediaType;
